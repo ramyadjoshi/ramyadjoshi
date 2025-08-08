@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="center">Aspiring Data Science Engineer || SDE Intern @KodNest | Data Science Intern @Shreshta | AI/ML Enthusiast | VTU BTech CSE '26</p>
+<p align="center">Aspiring Data Science Engineer | SDE Intern @KodNest | Data Science Intern @Shreshta | AI/ML Enthusiast | VTU BTech CSE '26</p>
 
 
 
