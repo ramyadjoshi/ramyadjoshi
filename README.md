@@ -1,8 +1,9 @@
+
 <h1 align="center">Hey! 👋 I'm Ramya Joshi</h1>
 <p align="center">
-  <a href="https://octodex.github.com/hubot/"><img align="left" width="150" height="150" src="https://octodex.github.com/images/hubot.jpg"></a>
-
+  <img src="https://komarev.com/ghpvc/?username=ramyadjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="ramyadjoshi" />
 </p>
+
 
 <p align="center">Aspiring Data Science Engineer || SDE Intern @KodNest | Data Science Intern @Shreshta | AI/ML Enthusiast | VTU BTech CSE '26</p>
 
