@@ -1,5 +1,18 @@
-# 💫 Hi 👋, I'm Ramya Joshi
+#  Hey! 👋, I'm Ramya Joshi
 **Aspiring Data Science Engineer || SDE Intern @KodNest | Data Science Intern @Shreshta | AI/ML Enthusiast | VTU BTech CSE '26**
+
+###  About Me
+
+- **I’m currently building:** **AI Chatbot for Personalized Assistance**
+- **Exploring:** **NLP**, **LangChain**, and **Generative AI**
+- **Passionate about:** Solving real-world problems using AI
+- **Ask me about:** Turning ideas into cool code projects
+- **Reach out:** ramyadjoshi@gmail.com
+- **Fun Fact:** Just here, training bots to understand my bad jokes.😎
+
+---
+  
+  
 
  
 ## 🌐 Socials:
