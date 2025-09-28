@@ -11,7 +11,7 @@
 
 ###  About Me
 
-- **I’m currently building:** **AI Chatbot for Personalized Assistance**
+- **I’m currently building:** **Language Agnostic Chatbot**
 - **Exploring:** **NLP**, **LangChain**, and **Generative AI**
 - **Passionate about:** Solving real-world problems using AI
 - **Ask me about:** Turning ideas into cool code projects
