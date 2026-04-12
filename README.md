@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="center">Upcoming System Engineer Trainee @ TCS | AI Intern @ iSpark | Ex-SDE Intern @KodNest | Ex-Data Science Intern @Shreshta | AI/ML Enthusiast | VTU BTech CSE '26</p>
+<!-- <p align="center">Upcoming System Engineer Trainee @ TCS | AI Intern @ iSpark | Ex-SDE Intern @KodNest | Ex-Data Science Intern @Shreshta | AI/ML Enthusiast | VTU BTech CSE '26</p> -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C897&center=true&vCenter=true&width=650&lines=Hi!+I'm+Ramya+Joshi;Software+Engineer;AI+%26+ML+Enthusiast;Exploring+Intelligent+Systems;Welcome+to+my+Profile!🤝🏻" alt="Typing SVG" />
