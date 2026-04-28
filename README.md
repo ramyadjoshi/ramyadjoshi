@@ -1,74 +1,129 @@
-
 <h1 align="center">Hey! 👋 I'm Ramya Joshi</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramyadjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="ramyadjoshi" />
+  <img src="https://komarev.com/ghpvc/?username=ramyadjoshi&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-
-<!-- <p align="center">Upcoming System Engineer Trainee @ TCS | AI Intern @ iSpark | Ex-SDE Intern @KodNest | Ex-Data Science Intern @Shreshta | AI/ML Enthusiast | VTU BTech CSE '26</p> -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C897&center=true&vCenter=true&width=650&lines=Hi!+I'm+Ramya+Joshi;Software+Engineer;AI+%26+ML+Enthusiast;Exploring+Intelligent+Systems;Welcome+to+my+Profile!🤝🏻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C897&center=true&vCenter=true&width=650&lines=Hi!+I'm+Ramya+Joshi;Software+Engineer;AI+%26+ML+Enthusiast;Building+Intelligent+Systems;Welcome+to+my+Profile!🤝🏻" />
 </h1>
 
+---
 
+## 💫 About Me
 
-###  About Me
-
-- **I’m currently building:** **IntelliDoc Chatbot**
-- **Exploring:** **NLP**, **LangChain**, and **Generative AI**
-- **Passionate about:** Solving real-world problems using AI
-- **Ask me about:** Turning ideas into cool code projects
-- **Reach out:** ramyadjoshi@gmail.com
-- **Fun Fact:** Just here, training bots to understand my bad jokes.😎
+- 🎓 BTech CSE (VTU)  
+- 💼 Incoming System Engineer @ TCS  
+- 🤖 AI/ML Enthusiast  
+- ⚡ I like building things that actually work  
+- 🌱 Exploring: **NLP, GenAI, Intelligent Systems**  
+  
 
 ---
-  
-  
 
- 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramyadjoshi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramyadjoshi@gmail.com) 
+## 🚀 Featured Work
+
+<p align="center">
+  <a href="https://github.com/ramyadjoshi/IntelliDoc-AI-Powered-Intelligent-Document-Analysis-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramyadjoshi&repo=IntelliDoc-AI-Powered-Intelligent-Document-Analysis-System&theme=github_dark&hide_border=true"/>
+  </a>
+  <a href="https://github.com/ramyadjoshi/System-Watcher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramyadjoshi&repo=System-Watcher&theme=github_dark&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ramyadjoshi/Object-Detection-using-YOLOv5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramyadjoshi&repo=Object-Detection-using-YOLOv5&theme=github_dark&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/ramyadjoshi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ramyadjoshi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Core
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### 🌐 Frontend (Learning)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 
+
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" />
+</p>
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+  <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=ramyadjoshi&theme=github-dark&hide_border=true&area=true"/>
+</p>
+
+---
 
 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramyadjoshi&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramyadjoshi&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramyadjoshi&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramyadjoshi&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramyadjoshi&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=ramyadjoshi&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=ramyadjoshi&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramyadjoshi&theme=github_dark"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramyadjoshi&theme=github_dark"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ramyadjoshi&theme=github-dark&hide_border=true"/>
 
 </div>
-
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ramyadjoshi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ramyadjoshi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyadjoshi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ramyadjoshi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ramyadjoshi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+##
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
 
